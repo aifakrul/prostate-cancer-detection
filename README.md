@@ -13,3 +13,4 @@ Identify Benign and Malignant Stage of the Prostate Cancer from DICOM Dataset
 # Capture the dataset from https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661
 # Understand Dataprocessing and Codebase by codebase_definition.docx
 # Understand Model development by prostate cancer detection.docx
+# Understand the format of a sample DICOM file, sample-dicom-data.txt
