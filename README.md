@@ -1,3 +1,11 @@
+MD Fakrul Islam
+Certified Data Scientist, ML Model Deployment/Integration Specialist, and AI Solution Consultant
+Cell: +8801954345778 and +8801755524211
+Skype-fakrul.islam
+Email: fakruldsebd@gmail.com
+https://www.linkedin.com/in/fakrul-islam-bd/
+
+
 # prostate-cancer-detection
 Identify Benign and Malignant Stage of the Prostate Cancer from DICOM Dataset
 
