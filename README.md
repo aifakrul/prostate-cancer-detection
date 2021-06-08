@@ -5,6 +5,8 @@ Skype-fakrul.islam,
 Email: fakruldsebd@gmail.com,
 https://www.linkedin.com/in/fakrul-islam-bd/
 
+#Structure of DICOM Files
+sample-dicom-data.txt
 
 # prostate-cancer-detection
 Identify Benign and Malignant Stage of the Prostate Cancer from DICOM Dataset
