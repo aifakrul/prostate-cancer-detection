@@ -9,7 +9,7 @@ https://www.linkedin.com/in/fakrul-islam-bd/
 # prostate-cancer-detection
 Identify Benign and Malignant Stage of the Prostate Cancer from DICOM Dataset
 
-# Understand Prostate Cancer in Benign or Malignant stage using computer vision(ml models-93% accuracy, deep neural network-81% accuracy, and fusion network-88% accuracy)
+# Understand Prostate Cancer in Benign or Malignant stage using computer vision(ml models-93% validation accuracy, deep neural network-81% validation accuracy, and fusion network-88% validation accuracy)
 # Capture the dataset from https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661
 # Understand Dataprocessing and Codebase by codebase_definition.docx
 # Understand Model development by prostate cancer detection.docx
